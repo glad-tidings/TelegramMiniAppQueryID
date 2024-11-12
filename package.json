@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console-clear": "^1.1.1",
+    "figlet": "^1.8.0",
+    "readline-sync": "^1.4.10",
+    "telegram": "^2.26.6"
+  }
+}
